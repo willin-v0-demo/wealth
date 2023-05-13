@@ -14,8 +14,8 @@ export function generateStaticParams() {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Willin Wang 长岛冰泪',
-    template: '%s | Willin Wang 长岛冰泪'
+    default: '某某某',
+    template: '%s | 某某某'
   },
   description: '不走老路。 To be Willin is to be willing.',
   keywords: ['Next.js', 'React', 'JavaScript', 'Willin Wang'],
